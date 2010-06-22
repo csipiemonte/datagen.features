@@ -2,7 +2,7 @@
 <feature
       id="datagen.features"
       label="Datagen Features"
-      version="1.0.0.007">
+      version="1.0.0.008">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -20,14 +20,14 @@
          id="datagen"
          download-size="0"
          install-size="0"
-         version="1.0.0.007"
+         version="1.0.0.008"
          unpack="false"/>
 
    <plugin
          id="datagen.editor"
          download-size="0"
          install-size="0"
-         version="1.0.0.007"
+         version="1.0.0.008"
          unpack="false"/>
 
 </feature>
