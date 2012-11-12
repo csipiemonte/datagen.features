@@ -389,20 +389,20 @@ seguenti:
          id="datagen"
          download-size="0"
          install-size="0"
-         version="2.0.1.007"
+         version="2.0.2.001"
          unpack="false"/>
 
    <plugin
          id="datagen.editor"
          download-size="0"
          install-size="0"
-         version="2.0.1.007"
+         version="2.0.2.001"
          unpack="false"/>
 
    <plugin
          id="datagen.docs"
          download-size="0"
          install-size="0"
-         version="2.0.1.007"/>
+         version="2.0.2.001"/>
 
 </feature>
