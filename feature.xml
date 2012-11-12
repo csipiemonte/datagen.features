@@ -2,7 +2,7 @@
 <feature
       id="datagen.features"
       label="Datagen Features"
-      version="2.0.1.007">
+      version="2.0.2.001">
 
    <description>
       Modellazione e generazione dello strato di accesso ai dati
