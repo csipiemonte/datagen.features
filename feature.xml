@@ -2,7 +2,7 @@
 <feature
       id="datagen.features"
       label="Datagen Features"
-      version="2.0.3.005">
+      version="2.0.3.006">
 
    <description>
       Modellazione e generazione dello strato di accesso ai dati
@@ -389,20 +389,20 @@ seguenti:
          id="datagen"
          download-size="0"
          install-size="0"
-         version="2.0.3.005"
+         version="2.0.3.006"
          unpack="false"/>
 
    <plugin
          id="datagen.editor"
          download-size="0"
          install-size="0"
-         version="2.0.3.005"
+         version="2.0.3.006"
          unpack="false"/>
 
    <plugin
          id="datagen.docs"
          download-size="0"
          install-size="0"
-         version="2.0.3.005"/>
+         version="2.0.3.006"/>
 
 </feature>
